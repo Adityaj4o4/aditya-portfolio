@@ -2,10 +2,10 @@ const portfolioData = {
   "personal": {
     "name": "Example Man ...",
     "title": "Full Stack Developer & DevOps Engineer",
-    "email": "rohandas.zero@gmail.com",
-    "github": "https://github.com/rd6260",
+    "email": "exampleman.one@hemail.com",
+    "github": "https://github.com/superman2233",
     "linkedin": "https://linkedin.com",
-    "about": "I build digital products that combine beautiful design with robust engineering. Passionate about creating seamless user experiences and writing clean, efficient code."
+    "about": "I build this efficent code. (Lorem Ipsum)"
   },
   "skills": [
     "JavaScript", "TypeScript", "React", "Node.js", "Python", "Go", "CSS", "HTML", "UI/UX"
